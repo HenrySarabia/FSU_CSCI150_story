@@ -67,6 +67,7 @@ def story():
     #examples to use in class:
     add_line("{0} {1} {2} {3} {4} times in 2 minutes".format(antagonist, adv_0, v_0, n_0, num_0))
     add_line("{0} {1} said, looking at {2}.".format(q_0, protagonist, antagonist))
+    add_line("And then I added a line for credit")
     
 #############################################################################################
 #           HERE'S WHERE YOU ADD TO THE STORY                                               #
